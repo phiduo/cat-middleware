@@ -1,0 +1,12 @@
+{
+  "questionId": 245,
+  "questionType": "singleChoice",
+  "description": "Löse folgende Gleichung: 4x − 7(2−x) = 3x + 2",
+  "choices": {
+    "A": "x = 2",
+    "B": "x = 3",
+    "C": "x = 4",
+    "D": "x = 6"
+  },
+  "solution": "A"
+}

@@ -1,0 +1,13 @@
+{
+  "questionId": 250,
+  "questionType": "singleChoice",
+  "description": "Eine Treppe hat 22 Stufen. Würde jede Stufe um 1.6 cm höher gebaut,<br>könnten zwei Stufen eingespart werden. Wie hoch ist eine Stufe?",
+  "choices": {
+    "A": "7cm",
+    "B": "16cm",
+    "C": "5cm",
+    "D": "12cm",
+    "E": "65cm"
+  },
+  "solution": "B"
+}

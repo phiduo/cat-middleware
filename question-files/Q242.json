@@ -1,0 +1,11 @@
+{
+  "questionId": 242,
+  "questionType": "singleChoice",
+  "description": "Vereinfache folgenden Term: 5x + 3 + 8 + 2x",
+  "choices": {
+    "A": "7x + 11",
+    "B": "4x - 4",
+    "C": "12x + 5"
+  },
+  "solution": "A"
+}

@@ -1,0 +1,11 @@
+{
+  "questionId": 244,
+  "questionType": "singleChoice",
+  "description": "Im Ausdruck x + y + z befinden sich ...",
+  "choices": {
+    "A": "keine Variablen.",
+    "B": "2 Variablen.",
+    "C": "3 Variablen."
+  },
+  "solution": "C"
+}

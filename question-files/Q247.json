@@ -1,0 +1,12 @@
+{
+  "questionId": 247,
+  "questionType": "singleChoice",
+  "description": "Löse folgende Gleichung: 3x + 4 = 16",
+  "choices": {
+    "A": "x = 2",
+    "B": "x = 4",
+    "C": "x = 6",
+    "D": "x = 8"
+  },
+  "solution": "B"
+}

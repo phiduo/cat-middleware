@@ -1,0 +1,12 @@
+{
+  "questionId": 243,
+  "questionType": "singleChoice",
+  "description": "Die Gleichung 2x + 3 = 0 ist äquivalent zu:",
+  "choices": {
+    "A": "2x = 3",
+    "B": "x + 2 = 0",
+    "C": "x = 6",
+    "D": "x = 8"
+  },
+  "solution": "B"
+}

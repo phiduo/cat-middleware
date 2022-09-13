@@ -1,0 +1,12 @@
+{
+  "questionId": 246,
+  "questionType": "singleChoice",
+  "description": "Welche dieser Gleichungen ist korrekt, wenn a = 5 und b = 8?",
+  "choices": {
+    "A": "8 + a + 8 + b = 104",
+    "B": "8 + a + 8b = 104",
+    "C": "8a + 8 + b = 104",
+    "D": "8a + 8b = 104"
+  },
+  "solution": "D"
+}

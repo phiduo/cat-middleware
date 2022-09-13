@@ -1,0 +1,11 @@
+{
+  "url": "https://ce-lti.moodlecloud.com",
+  "name": "moodle-cloud",
+  "clientId": "zjSsfRctqKsyKaP",
+  "authenticationEndpoint": "https://ce-lti.moodlecloud.com/mod/lti/auth.php",
+  "accesstokenEndpoint": "https://ce-lti.moodlecloud.com/mod/lti/token.php",
+  "authConfig": {
+    "method": "JWK_SET",
+    "key": "https://ce-lti.moodlecloud.com/mod/lti/certs.php"
+  }
+}

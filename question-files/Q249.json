@@ -1,0 +1,11 @@
+{
+  "questionId": 249,
+  "questionType": "singleChoice",
+  "description": "Vereinfache folgenden Term: (x + 4) - 3x + (x + 9) (x + 8)",
+  "choices": {
+    "A": "2x + 3x + 5xy + 12",
+    "B": "6x + 9x + xy + 76",
+    "C": "5x + 7x + 2xy + 24"
+  },
+  "solution": "B"
+}

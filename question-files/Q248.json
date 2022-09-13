@@ -1,0 +1,12 @@
+{
+  "questionId": 248,
+  "questionType": "singleChoice",
+  "description": "Löse folgende Gleichung: 2x + 400 = 400",
+  "choices": {
+    "A": "x = 0",
+    "B": "x = 2",
+    "C": "x = 0.5",
+    "D": "x = 1"
+  },
+  "solution": "A"
+}

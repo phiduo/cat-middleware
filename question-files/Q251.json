@@ -1,0 +1,12 @@
+{
+  "questionId": 251,
+  "questionType": "singleChoice",
+  "description": "Löse folgende Gleichung: 4x + 4 = 3x + 3",
+  "choices": {
+    "A": "x = −2",
+    "B": "x = −1",
+    "C": "x = 5",
+    "D": "x = 7"
+  },
+  "solution": "B"
+}

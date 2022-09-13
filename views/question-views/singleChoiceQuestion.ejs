@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CAT LTI TESTING</title>
+</head>
+    <body>
+        <h1>CAT-Middleware</h1>
+        <p>QUIZ ID: <%= quizId %></p>
+        <h4>QUESTION ID: <%= question.questionId %></h4>
+        <!-- Question description -->
+        <h3><%- question.description %></h3>
+        <!-- Dynamically generated form for answer choices -->
+        <form action="/check-answer/quizzes/<%= quizId %>/questions/<%= question.questionId %>?ltik=<%= ltik %>" method="post">
+            <% Object.keys(question.choices).forEach(function(key) { %>
+                <input type="radio" id="<%= key %>" name="answer" value="<%= key %>">
+                <label for="<%= key %>"><%= question.choices[key] %></label><br>
+            <% }) %>
+            <br/>
+            <button type="submit" id="submitButton">Bestätigen</button>
+        </form>
+    </body>
+</html>

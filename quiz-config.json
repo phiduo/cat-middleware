@@ -1,0 +1,9 @@
+{
+  "maxNumberOfQuestions": 10,
+  "minMeasurementAccuracy": 0.8,
+  "inputProficiencyLevel": 0.0,
+  "questionSelector": "maxInfoSelector",
+  "competencyEstimator": "differentialEvolutionEstimator",
+  "standardErrorOfEstimation": 99.9,
+  "topicId": "algebra"
+}
