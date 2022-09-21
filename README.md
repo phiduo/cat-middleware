@@ -17,9 +17,9 @@ npm install
 ```
 
 Additionally, Ltijs requires a database and natively supports `MongoDB`.
-Therefore a `MongoDB` instance is required.  A simple and quick way to set up `MongoDB` is by using
+Therefore, a `MongoDB` instance is required.  A simple and quick way to set up `MongoDB` is by using
 the [official mongo docker image](https://hub.docker.com/_/mongo).
-The database credentials [can be configured in an `.env` file](##database-configuration-(required)).
+The database credentials [can be configured in an `.env` file](###database-configuration-\(required\)).
 
 
 ## Configuration
