@@ -7,7 +7,8 @@ server provided by Ltijs.
 
 ## Prerequisites
 
-A package manager like `npm` is recommended to install and start the CAT-Middleware.
+The CAT-Middleware requires [Node.Js (v12.22.9+) and npm](https://nodejs.org/en/) to be installed.
+The package manager `npm` is included in the Node.js installation.
 
 ## Setup
 
@@ -34,7 +35,7 @@ which will be used to register the LMS when the CAT-Middleware starts up.
 
 ### Database configuration (required)
 The database credentials are to be specified in the `.env` file, which needs to be created first.
-For creating the `.env`, use the `example.env` as a template.
+For creating the `.env` file, use the `example.env` file as a template.
 
 ### Quiz configuration (optional)
 
